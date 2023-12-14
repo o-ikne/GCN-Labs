@@ -1,4 +1,4 @@
 # GCN-Labs
 This repository contains labs and tutorials on Convolutional Graph Networks (GCNs).
 
-![alt text](https://tkipf.github.io/graph-convolutional-networks/images/gcn_web.png](https://pic4.zhimg.com/v2-dd9de3af36d661f3d68853cca6ada193_1200x500.jpg)https://pic4.zhimg.com/v2-dd9de3af36d661f3d68853cca6ada193_1200x500.jpg "gcn")
+![alt text]([https://tkipf.github.io/graph-convolutional-networks/images/gcn_web.png](https://pic4.zhimg.com/v2-dd9de3af36d661f3d68853cca6ada193_1200x500.jpg)https://pic4.zhimg.com/v2-dd9de3af36d661f3d68853cca6ada193_1200x500.jpg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgowrishankar.info%2Fblog%2Fgraph-convolution-network-a-practical-implementation-of-vertex-classifier-and-its-mathematical-basis%2Fgcn.png&f=1&nofb=1&ipt=247030a0d0ccedb86de61a67658fd2d4559e2f864fb602761038332f135a89c8&ipo=images)https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgowrishankar.info%2Fblog%2Fgraph-convolution-network-a-practical-implementation-of-vertex-classifier-and-its-mathematical-basis%2Fgcn.png&f=1&nofb=1&ipt=247030a0d0ccedb86de61a67658fd2d4559e2f864fb602761038332f135a89c8&ipo=images "gcn")

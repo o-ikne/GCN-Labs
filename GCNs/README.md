@@ -1,5 +1,5 @@
 
-# Deel Learning Courses
+## GCNs
 This repository contains course slides, labs and tutorials on Convolutional Graph Networks (GCNs).
 
 **Check out the slides and the tutorials ☝️**
